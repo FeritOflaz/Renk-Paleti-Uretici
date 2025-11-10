@@ -20,7 +20,6 @@ Ayrıca oluşturduğun paletleri kaydedebilir veya içe aktararak tekrar kullana
 - 📂 **Paleti İçe Aktar:** Daha önce kaydettiğin paletleri yeniden yükle.  
 - 🧠 **Varsayılan Palet:** Uygulama ilk açıldığında otomatik olarak siyah tonları gösterir.  
 - 💡 **Tamamen Türkçe Arayüz.**  
-- 🖤 Sağ altta gururla: *Powered by Ferit Oflaz*
 
 ---
 
