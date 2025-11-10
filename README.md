@@ -43,7 +43,7 @@ Ayrıca oluşturduğun paletleri kaydedebilir veya içe aktararak tekrar kullana
 ---
 
 ## 🪄 İndir
-📦 [💾 RenkPaletiUretici_v1.0.exe indir (en son sürüm)](https://github.com/FeritOflaz/Renk-Paleti-Uretici/releases/latest/download/RenkPaletiUretici_v1.0.exe)
+📦 [💾 RenkPaletiUretici_v1.0.exe indir](https://github.com/FeritOflaz/Renk-Paleti-Uretici/raw/main/dist/RenkPaletiUretici_v1.0.exe)
 
 ---
 
